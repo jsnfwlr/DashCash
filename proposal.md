@@ -1,19 +1,14 @@
 # Proposal Template - Detailed
 
-###### Description
 One-time-use physical Dash wallets.
-
 
 ### Overview
 
-###### Description
 While v12 enabled budgeting and removed the reference node, our donation system was rendered inoperable by the latest version. The donation feature was supporting many of our developers, so we would like to replace that income stream with a more permanent solution that does not rely on altruism.
 
 Working on Dash should come with some incentive, like receiving some money from the blockchain every month. However, we don't want to micromanage an open source project and we feel we have a highly trustworthy team. The way we plan on using the core team budget is to simply split it between all team members.
 
 ### Scope
-
-###### Description
 
 **Human Resource Management**
 
@@ -26,8 +21,6 @@ Our team structure is highly organized. We have professional project managers on
 Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed. 
 
 ##### Deliverables
-
-###### Description
 
 1. Regular software updates
  1. 0.12.1
@@ -63,8 +56,6 @@ It's up to the person how much they work on Dash and how much they are able to e
 
 ### Budget
 
-###### Description
-
 **Fund Allocation Transparency**
 
 We will be 100% transparent about who on our team is paid and how much they are paid. As defined, a core team member is someone that has made the above pledge to work on Dash everyday. That person then has the freedom to work on Dash as much as they wish to expand their earning potential. We believe in transparency when it comes to the administration of a decentralized product such as Dash, so we will make this data available on one of the websites for the community.
@@ -75,8 +66,6 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 
 
 ##### Itemized Costs
-
-###### Description
 
 ###### Table 2 - Total Costs Requested
 |         Item        |    Cost   |   Units  |                       Comment                      |
@@ -118,8 +107,6 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 * *Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
 
 ##### Terms
-
-###### Description
 
 We are requesting to fund this for 100 months.  It's just a big number that is more than enough.  We can always adjust it later.  
 
