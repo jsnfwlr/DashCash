@@ -34,14 +34,9 @@ Anyone, with any skill set (software, quality assurance, automation, admin, mark
 
 ### Schedule
 
-###### Description
-*Template author's note: the core-team proposal on dashcentral.org does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
-
 It's up to the person how much they work on Dash and how much they are able to earn from the project.  Some of us will work really hard on Dash (often for 10+ hours a day), because we believe in it and we're willing to put in the time to make Dash a critical part of the future economy. We believe it's worth the time to do this.  Others have full time jobs, but they like to contribute during mornings, nights, and weekends. This is all great, the more people we can get putting effort into the project the better off we'll be in the long run.
 
 ##### Milestones
-
-###### Description
 
 ###### Table 1 - Project Milestones
 | Milestone   |              Description      | Completion Date |               Comment               |
