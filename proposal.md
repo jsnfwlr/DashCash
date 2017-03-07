@@ -63,14 +63,12 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 ##### Itemized Costs
 
 ###### Table 2 - Total Costs Requested
-|         Item        |    Cost   |   Units  |                       Comment                      |
-|---------------------|:---------:|:--------:|----------------------------------------------------|
-| Time                |   $1,080  |    USD   | See Table 3                                        |
-| Materials           |    $210   |    USD   | See Table 4                                        |
-| Consultants         |   $1,177  |    USD   | See Table 5                                        |
-| *Subtotal*          |  *$2,580* |    USD   | Total project cost                                 |
-| *Subtotal*          |    *58*   |   DASH   | Using $45 USD/DASH                                 |
-| **Total Requested** |   **58**  | **DASH** |                                                    |
+|         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
+|---------------------|:---------:|:---------:|----------------------------------------------------|
+| Time                |   $1,080  |     24    | See Table 3                                        |
+| Materials           |    $210   |      5    | See Table 4                                        |
+| Consultants         |   $1,177  |     26    | See Table 5                                        |
+| **Total Requested** |   $2467   |  **55**   | Calculated at 1 Dash = $45 USD                     |
 
 ###### Table 3 - Time Costs
 | Time Costs  | Description       | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
