@@ -65,27 +65,29 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 ###### Table 2 - Total Costs Requested
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
-| Time                |   $1,980  |     44    | See Table 3                                        |
+| Time                |   $2,070  |     46    | See Table 3                                        |
 | Materials           |    $210   |      5    | See Table 4                                        |
 | Consultants         |   $1,177  |     26    | See Table 5                                        |
 | **Total Requested** |   $2467   |  **55**   | Calculated at 1 Dash = $45 USD                     |
 
 ###### Table 3 - Time Costs
-| Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                          |
-|----------------|-------------------|:--------:|:------------:|:----------:|----------------------------------|
-| Prototype Dev  | Milestone 1 & 2   |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet |
-| Prototype Vid  | Milestone 1       |   2 hrs  |      $45     |     $90    | Video showing proof of concept   |
-| Prototype App  | Milestone 2       |  20 hrs  |      $45     |    $900    | Android App for proof of concept |
-| Production Dev | Milestone 3 & 4   |   6 hrs  |      $45     |    $270    | Polished code running on mainnet |
-| Production App | Milestone 4       |  10 hrs  |      $45     |    $450    | Polished App running on mainnet  |
-| **Total**      |                   |   *44*   |              | **$1,980** | Total time costs                 |
+| Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                              |
+|----------------|-------------------|:--------:|:------------:|:----------:|--------------------------------------|
+| Prototype Dev  | Milestone 1 & 2   |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet     |
+| Prototype Vid  | Milestone 1       |   2 hrs  |      $45     |     $90    | Video showing proof of concept       |
+| Prototype App  | Milestone 2       |  20 hrs  |      $45     |    $900    | Android App for proof of concept     |
+| Production Dev | Milestone 3 & 4   |   6 hrs  |      $45     |    $270    | Polished code running on mainnet     |
+| Card Design    | Milestone 4       |   2 hrs  |      $45     |     $90    | Design artwork for the cards         |
+| Production App | Milestone 4       |  10 hrs  |      $45     |    $450    | Polished App running on mainnet      |
+| Ordering Site  | Milestone 5       |  18 hrs  |      $45     |    $810    | Website to promote and sell DashCash |
+| **Total**      |                   |   *44*   |              | **$2,070** | Total time costs                     |
 
 ###### Table 4 - Material Costs
-| Material Costs |    Description    |  Milestone  | Cost (USD) |          Comment         |
-|----------------|-------------------|:-------------:|:----------:|--------------------------|
-| TestNet Cards  | Hardware          | |    $200    | Raspberry Pi for testing |
-| MC 2           | Subscription fees | Deliverable 3 |     $10    |                          |
-| **Total**      |                   |               |  **$210**  | Total material costs     |
+| Material       |      Description         |  Milestone    | Cost (USD) |          Comment            |
+|----------------|--------------------------|:-------------:|:----------:|-----------------------------|
+| TestNet Cards  | 10x MiFare NFC Cards     | Milestone 1   |     $30    | Blank NFC cards for testing |
+| NFC R/W Unit   | 1x MiFare NFC Controller | Milestone 1   |     $60    | USB NFC card R/W unit       |
+| **Total**      |                       |               |  **$210**  | Total material costs     |
 
 ###### Table 5 - Consultant Costs
 |         Item  |   Price  |   Qty    |   Cost   |   Unit   |           Comment      |
