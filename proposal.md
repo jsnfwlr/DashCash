@@ -66,17 +66,16 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
 | Time                |   $2,880  |     64    | See Table 3                                        |
-| Materials           |   $3,825  |     85    | See Table 4                                        |
-| Consultants         |   $1,177  |     26    | See Table 5                                        |
-| **Total Requested** |   $2467   |  **55**   | Calculated at 1 Dash = $45 USD                     |
+| Materials           |   $4,005  |     88    | See Table 4                                        |
+| **Total Requested** |   $6,885  |  **152**  | Calculated at 1 Dash = $45 USD                     |
 
 ###### Table 3 - Time Costs
 | Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                              |
 |----------------|-------------------|:--------:|:------------:|:----------:|--------------------------------------|
-| Prototype Dev  | Milestone 1 & 2   |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet     |
+| Prototype Dev  | Milestone 1       |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet     |
 | Prototype Vid  | Milestone 1       |   2 hrs  |      $45     |     $90    | Video showing proof of concept       |
 | Prototype App  | Milestone 2       |  20 hrs  |      $45     |    $900    | Android App for proof of concept     |
-| Production Dev | Milestone 3 & 4   |   6 hrs  |      $45     |    $270    | Polished code running on mainnet     |
+| Production Dev | Milestone 3       |   6 hrs  |      $45     |    $270    | Polished code running on mainnet     |
 | Card Design    | Milestone 4       |   2 hrs  |      $45     |     $90    | Design artwork for the cards         |
 | Production App | Milestone 4       |  10 hrs  |      $45     |    $450    | Polished App running on mainnet      |
 | Ordering Site  | Milestone 5       |  18 hrs  |      $45     |    $810    | Website to promote and sell DashCash |
@@ -85,12 +84,14 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 ###### Table 4 - Material Costs
 | Material       |      Description          |  Milestone    | Cost (USD)  |          Comment                     |
 |----------------|---------------------------|:-------------:|:-----------:|--------------------------------------|
+| Domain Name    | dashca.sh                 | Milestone 1   |      $90    | Website Domain                       |
 | TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
 | NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $75    | USB NFC card R/W unit                |
 | MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,520   | Blank NFC cards for production       |
-| Card Printer   | 1x Sublimation Printer    | Milestone 5   |    $2,000   | Print artwork on to cards            |
-| Laser Engraver | 1x Laser Engraver         | Milestone 5   |     $200    | Etch addresses and QR codes on cards |
-| **Total**      |                           |               |  **$3,825** | Total material costs                 |
+| Card Printer   | 1x Sublimation Printer    | Milestone 4   |    $2,000   | Print artwork on to cards            |
+| Laser Engraver | 1x Laser Engraver         | Milestone 4   |     $200    | Etch addresses and QR codes on cards |
+| EV SSL Cert    | dashca.sh                 | Milestone 5   |      $90    | SSL Cert for DashCa.sh               |
+| **Total**      |                           |               |  **$4,005** | Total material costs                 |
 
 ##### Terms
 
