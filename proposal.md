@@ -89,6 +89,7 @@ Who what where and when.
 | TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
 | NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $65    | USB NFC card R/W unit                |
 | MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,500   | Blank NFC cards for production       |
+| NFC Shields    | 1000x NFC Shield pockets  | Milestone 3   |     $360    | NFC Shields to protect cards in post |
 | Card Printer   | 1x Sublimation Printer    | Milestone 4   |    $2,000   | Print artwork on to cards            |
 | Laser Engraver | 1x Laser Engraver         | Milestone 4   |     $200    | Etch addresses and QR codes on cards |
 | Webapp Host    | Central service hosting   | Milestone 4   |     $300    | Heroku App Hosting                   |
