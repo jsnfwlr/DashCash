@@ -4,7 +4,7 @@ One-time-use physical Dash wallets.
 
 ### Overview
 
-Story Time. Tell people about DashCash
+As things stand today, there is no way for someone to exchange cryptocurrencies without incurring a fee. With cash, if I have it, I can give it to someone else, and not pay anything for the transaction. DashCash is an attempt to bring the same frictionless transactions we have with cash to cryptocurrencies.
 
 ### Scope
 
@@ -67,10 +67,10 @@ Who what where and when.
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
 | Time                |   $2,880  |     64    | See Table 3                                        |
-| Materials           |   $4,275  |     95    | See Table 4                                        |
+| Purchases           |   $4,275  |     95    | See Table 4                                        |
 | **Total Requested** |   $7,155  |  **159**  | Calculated at 1 Dash = $45 USD                     |
 
-###### Table 3 - Time Costs
+###### Table 3 - Cost of Time Spent
 | Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                              |
 |----------------|-------------------|:--------:|:------------:|:----------:|--------------------------------------|
 | Prototype Dev  | Milestone 1       |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet     |
@@ -82,8 +82,8 @@ Who what where and when.
 | Sales website  | Milestone 7       |  18 hrs  |      $45     |    $810    | Website to promote and sell DashCash |
 | **Total**      |                   |   *64*   |              | **$2,880** | Total time costs                     |
 
-###### Table 4 - Material Costs
-| Material       |      Description          |  Milestone    | Cost (USD)  |          Comment                     |
+###### Table 4 - Cost of Materials Purchased
+| Purchase       |      Description          |  Milestone    | Cost (USD)  |          Comment                     |
 |----------------|---------------------------|:-------------:|:-----------:|--------------------------------------|
 | Domain Name    | dashca.sh                 | Milestone 1   |      $90    | Website Domain                       |
 | TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
