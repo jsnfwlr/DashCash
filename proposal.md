@@ -85,7 +85,7 @@ Who what where and when.
 ###### Table 4 - Cost of Materials Purchased
 | Purchase       |      Description          |  Milestone    | Cost (USD)  |          Comment                     |
 |----------------|---------------------------|:-------------:|:-----------:|--------------------------------------|
-| Domain Name    | dashca.sh                 | Milestone 1   |      $90    | Website Domain                       |
+| Domain Name    | Something appropriate     | Milestone 1   |      $90    | Website Domain                       |
 | TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
 | NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $65    | USB NFC card R/W unit                |
 | MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,500   | Blank NFC cards for production       |
