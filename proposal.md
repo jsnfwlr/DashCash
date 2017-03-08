@@ -65,26 +65,25 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 ###### Table 2 - Total Costs Requested
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
-| Time                |   $1,080  |     24    | See Table 3                                        |
+| Time                |   $1,980  |     44    | See Table 3                                        |
 | Materials           |    $210   |      5    | See Table 4                                        |
 | Consultants         |   $1,177  |     26    | See Table 5                                        |
 | **Total Requested** |   $2467   |  **55**   | Calculated at 1 Dash = $45 USD                     |
 
 ###### Table 3 - Time Costs
-| Time Costs  | Description       | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
-|-------------|-------------------|:--------:|:------------:|:----------:|-------------------------------|
-| TC 1        | Deliverable 1     |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
-| TC 2        | Deliverable 2     |  10 hrs  |       $50    |    $500    | $50/hr billable rate          |
-| TC 3        | Deliverable 2     |     -    |        -     |    $600    | Quote: Dash Developers, Inc   |
-| TC 4        | Deliverable 3     |   2 hrs  |       $25    |     $50    | $25/hr billable rate          |
-| *Subtotal*  |                   |          |              |  *$1,200*  | Assumes 12 USD/DASH (rounded) |
-| Discount    | 10% reduction     |          |              |    -$120   | Because I love dash           |
-| **Total**   |                   |          |              | **$1,080** | Total time costs              |
+| Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                          |
+|----------------|-------------------|:--------:|:------------:|:----------:|----------------------------------|
+| Prototype Dev  | Milestone 1 & 2   |   6 hrs  |      $45     |    $270    | Proof of concept code on testnet |
+| Prototype Vid  | Milestone 1       |   2 hrs  |      $45     |     $90    | Video showing proof of concept   |
+| Prototype App  | Milestone 2       |  20 hrs  |      $45     |    $900    | Android App for proof of concept |
+| Production Dev | Milestone 3 & 4   |   6 hrs  |      $45     |    $270    | Polished code running on mainnet |
+| Production App | Milestone 4       |  10 hrs  |      $45     |    $450    | Polished App running on mainnet  |
+| **Total**      |                   |   *44*   |              | **$1,980** | Total time costs                 |
 
 ###### Table 4 - Material Costs
-| Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
+| Material Costs |    Description    |  Milestone  | Cost (USD) |          Comment         |
 |----------------|-------------------|:-------------:|:----------:|--------------------------|
-| MC 1           | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
+| TestNet Cards  | Hardware          | |    $200    | Raspberry Pi for testing |
 | MC 2           | Subscription fees | Deliverable 3 |     $10    |                          |
 | **Total**      |                   |               |  **$210**  | Total material costs     |
 
