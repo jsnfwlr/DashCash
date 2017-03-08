@@ -65,8 +65,8 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 ###### Table 2 - Total Costs Requested
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
-| Time                |   $2,070  |     46    | See Table 3                                        |
-| Materials           |    $210   |      5    | See Table 4                                        |
+| Time                |   $2,880  |     64    | See Table 3                                        |
+| Materials           |   $3,825  |     85    | See Table 4                                        |
 | Consultants         |   $1,177  |     26    | See Table 5                                        |
 | **Total Requested** |   $2467   |  **55**   | Calculated at 1 Dash = $45 USD                     |
 
@@ -80,25 +80,17 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 | Card Design    | Milestone 4       |   2 hrs  |      $45     |     $90    | Design artwork for the cards         |
 | Production App | Milestone 4       |  10 hrs  |      $45     |    $450    | Polished App running on mainnet      |
 | Ordering Site  | Milestone 5       |  18 hrs  |      $45     |    $810    | Website to promote and sell DashCash |
-| **Total**      |                   |   *44*   |              | **$2,070** | Total time costs                     |
+| **Total**      |                   |   *64*   |              | **$2,880** | Total time costs                     |
 
 ###### Table 4 - Material Costs
-| Material       |      Description         |  Milestone    | Cost (USD) |          Comment            |
-|----------------|--------------------------|:-------------:|:----------:|-----------------------------|
-| TestNet Cards  | 10x MiFare NFC Cards     | Milestone 1   |     $30    | Blank NFC cards for testing |
-| NFC R/W Unit   | 1x MiFare NFC Controller | Milestone 1   |     $60    | USB NFC card R/W unit       |
-| **Total**      |                       |               |  **$210**  | Total material costs     |
-
-###### Table 5 - Consultant Costs
-|         Item  |   Price  |   Qty    |   Cost   |   Unit   |           Comment      |
-|---------------|----------|----------|----------|----------|------------------------|
-| Role 1        |  244.67  |     1    |  244.67  |   DASH   | Tungfa                 |
-| Role 2        |  183.50  |     1    |  183.50  |   DASH   | AndyDark               |
-| Role 3        |   61.17  |    11    |  672.87  |   DASH   | See Note 1             |
-| Role 4        |   25.00  |     3    |   75.00  |   DASH   | Elbereth, Alexy, Raico |
-| **Total       |          |  **16**  | 1176.67  | **DASH** |                        |
-
-* *Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
+| Material       |      Description          |  Milestone    | Cost (USD)  |          Comment                     |
+|----------------|---------------------------|:-------------:|:-----------:|--------------------------------------|
+| TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
+| NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $75    | USB NFC card R/W unit                |
+| MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,520   | Blank NFC cards for production       |
+| Card Printer   | 1x Sublimation Printer    | Milestone 5   |    $2,000   | Print artwork on to cards            |
+| Laser Engraver | 1x Laser Engraver         | Milestone 5   |     $200    | Etch addresses and QR codes on cards |
+| **Total**      |                           |               |  **$3,825** | Total material costs                 |
 
 ##### Terms
 
