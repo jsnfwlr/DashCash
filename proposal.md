@@ -66,8 +66,8 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 |         Item        | Cost/$USD | Cost/Dash |                       Comment                      |
 |---------------------|:---------:|:---------:|----------------------------------------------------|
 | Time                |   $2,880  |     64    | See Table 3                                        |
-| Materials           |   $4,005  |     88    | See Table 4                                        |
-| **Total Requested** |   $6,885  |  **152**  | Calculated at 1 Dash = $45 USD                     |
+| Materials           |   $4,275  |     95    | See Table 4                                        |
+| **Total Requested** |   $7,155  |  **159**  | Calculated at 1 Dash = $45 USD                     |
 
 ###### Table 3 - Time Costs
 | Time Costs     | Milestone         | Quantity |  Rate (USD)  | Cost (USD) | Comment                              |
@@ -86,12 +86,13 @@ I'd like to stress that this compensation is by no means meant to provide a "ful
 |----------------|---------------------------|:-------------:|:-----------:|--------------------------------------|
 | Domain Name    | dashca.sh                 | Milestone 1   |      $90    | Website Domain                       |
 | TestNet Cards  | 10x MiFare NFC Cards      | Milestone 1   |      $30    | Blank NFC cards for testing          |
-| NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $75    | USB NFC card R/W unit                |
-| MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,520   | Blank NFC cards for production       |
+| NFC R/W Unit   | 1x MiFare NFC Controller  | Milestone 1   |      $65    | USB NFC card R/W unit                |
+| MainNet Cards  | 1000x MiFare NFC Cards    | Milestone 3   |    $1,500   | Blank NFC cards for production       |
 | Card Printer   | 1x Sublimation Printer    | Milestone 4   |    $2,000   | Print artwork on to cards            |
 | Laser Engraver | 1x Laser Engraver         | Milestone 4   |     $200    | Etch addresses and QR codes on cards |
+| Webapp Host    | Central service hosting   | Milestone 4   |     $300    | Heroku App Hosting                   |
 | EV SSL Cert    | dashca.sh                 | Milestone 5   |      $90    | SSL Cert for DashCa.sh               |
-| **Total**      |                           |               |  **$4,005** | Total material costs                 |
+| **Total**      |                           |               |  **$4,275** | Total material costs                 |
 
 ##### Terms
 
